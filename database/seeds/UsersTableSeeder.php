@@ -11,6 +11,7 @@ class UsersTableSeeder extends Seeder
      */
     public function run()
     {
+        //Данные для БД
         $data = [
             [
                 'name' => 'Автор не известен',
